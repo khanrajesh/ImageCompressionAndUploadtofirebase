@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "557489555618",
+    "project_id": "imagecompressionupload",
+    "storage_bucket": "imagecompressionupload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557489555618:android:a62da69c662297d6986ffb",
+        "android_client_info": {
+          "package_name": "com.blaze.imagecompressionwm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557489555618-lg65taarlqnfaunnmpfueav887t8boli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blaze.imagecompressionwm",
+            "certificate_hash": "82321dacd7726a966122bf6c09cff1302d62eaac"
+          }
+        },
+        {
+          "client_id": "557489555618-nc9n484jmoh6p2dvlghccfef7gtd12bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllBem_3kYb8mnw3uGl-56t1PzLjNGiHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557489555618-nc9n484jmoh6p2dvlghccfef7gtd12bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
